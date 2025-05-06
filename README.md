@@ -55,8 +55,3 @@ Es un ejemplo clásico para iniciarse en redes neuronales y aprendizaje automát
   ```bash
   python mnist_clasificador.py
 
----
-
-👤 Autor
-
-Trabajo realizado por Ezequiel Cerdan de la actividad sobre redes neuronales.
