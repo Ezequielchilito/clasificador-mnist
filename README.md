@@ -52,7 +52,7 @@ Es un ejemplo clásico para iniciarse en redes neuronales y aprendizaje automát
 ---
 
 ## Ejecutá el script:
-
+  ```bash
   python mnist_clasificador.py
 
 ---
