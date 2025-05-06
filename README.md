@@ -5,7 +5,7 @@ Este proyecto implementa una red neuronal simple para clasificar im√°genes de d√
 
 ---
 
-## Tipo de Red
+## Tipo de RED
 
 Se utiliza una **red neuronal multicapa (Multilayer Perceptron - MLP)** compuesta por:
 
